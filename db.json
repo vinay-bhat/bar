@@ -1,4 +1,5 @@
-[{
+[
+    {
     "id": 0,
  "pieLabel": "Karnataka",
  "pieData": "500",
@@ -15,4 +16,5 @@
  "pieLabel": "Goa",
  "pieData": "400",
  "barData": ["2006", "2007", "2008", "2009"]
-}]
+}
+]
